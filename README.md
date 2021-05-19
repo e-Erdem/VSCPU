@@ -1,2 +1,2 @@
 # VSCPU
-VerySimpleCPU
+VerySimpleCPU implementation in Verilog.
